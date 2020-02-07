@@ -1,0 +1,114 @@
+[
+  {
+    "province": "Province No. 1",
+    "districts": [
+      "Bhojpur",
+      "Dhankuta",
+      "Ilam",
+      "Jhapa",
+      "Khotang",
+      "Morang",
+      "Okhaldhunga",
+      "Panchthar",
+      "Sankhuwasabha",
+      "Solukhumbu",
+      "Sunsari",
+      "Taplejung",
+      "Terhathum",
+      "Udayapur"
+    ]
+  },
+  {
+    "province": "Province No. 2",
+    "districts": [
+      "Bara",
+      "Parsa",
+      "Dhanusa",
+      "Mahottari",
+      "Rautahat",
+      "Saptari",
+      "Sarlahi",
+      "Siraha"
+    ]
+  },
+  {
+    "province": "Province No. 3",
+    "districts": [
+      "Bhaktapur",
+      "Chitwan",
+      "Dhading",
+      "Dolakha",
+      "Kathmandu",
+      "Kavrepalanchok",
+      "Lalitpur",
+      "Makwanpur",
+      "Nuwakot",
+      "Ramechhap",
+      "Rasuwa",
+      "Sindhuli",
+      "Sindhupalchok"
+    ]
+  },
+  {
+    "province": "Gandaki Pradesh",
+    "districts": [
+      "Baglung",
+      "Gorkha",
+      "Kaski",
+      "Lamjung",
+      "Manang",
+      "Mustang",
+      "Myagdi",
+      "Nawalparasi (East)",
+      "Nawalparasi (West)",
+      "Parbat",
+      "Syangja",
+      "Tanahun"
+    ]
+  },
+  {
+    "province": "Province No. 5",
+    "districts": [
+      "Arghakhanchi",
+      "Banke",
+      "Bardiya",
+      "Dang Deukhuri",
+      "Rukum (East)",
+      "Gulmi",
+      "Kapilvastu",
+      "Palpa",
+      "Pyuthan",
+      "Rolpa",
+      "Rupandehi"
+    ]
+  },
+  {
+    "province": "Karnali Pradesh",
+    "districts": [
+      "Dailekh",
+      "Dolpa",
+      "Humla",
+      "Jajarkot",
+      "Jumla",
+      "Kalikot",
+      "Mugu",
+      "Salyan",
+      "Surkhet",
+      "Rukum (West)"
+    ]
+  },
+  {
+    "province": "Sudurpashchim Pradesh",
+    "districts": [
+      "Achham",
+      "Baitadi",
+      "Bajhang",
+      "Bajura",
+      "Dadeldhura",
+      "Darchula",
+      "Doti",
+      "Kailali",
+      "Kanchanpur"
+    ]
+  }
+]
