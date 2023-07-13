@@ -1,6 +1,6 @@
 [
   {
-    "province": "Province No. 1",
+    "province": "Koshi Pradesh",
     "districts": [
       "Bhojpur",
       "Dhankuta",
@@ -19,7 +19,7 @@
     ]
   },
   {
-    "province": "Province No. 2",
+    "province": "Madhesh Pradesh",
     "districts": [
       "Bara",
       "Parsa",
@@ -32,7 +32,7 @@
     ]
   },
   {
-    "province": "Province No. 3",
+    "province": "Bagmati Pradesh",
     "districts": [
       "Bhaktapur",
       "Chitwan",
@@ -67,7 +67,7 @@
     ]
   },
   {
-    "province": "Province No. 5",
+    "province": "Lumbini Pradesh",
     "districts": [
       "Arghakhanchi",
       "Banke",
